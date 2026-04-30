@@ -1,4 +1,5 @@
 # alzheimers-origin-analysis
+Research-oriented theoretical framework based on integrated genomic and transcriptomic datasets (ADSP, NIAGADS, dbGaP). This repository presents internal analytical models and is not a clinical diagnostic system.
 
 ■ Alzheimer’s Origin-Stream Analysis
 ==============================
